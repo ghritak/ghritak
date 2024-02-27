@@ -1,6 +1,6 @@
 ## Hi there 👋 I am GHRITAK . 
 
-###### Software Developer
+### Software Developer
 
 ---
 <br />
