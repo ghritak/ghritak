@@ -1,4 +1,4 @@
-# Ghritak Jyoti Kalita . 
+# Ghritak Jyoti Kalita
 
 ### Software Developer
 
