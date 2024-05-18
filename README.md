@@ -18,10 +18,11 @@ Hi there! I'm Ghritak, a software developer with a passion for creating exceptio
 
 ## My Github stats.
 
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=ghritak&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghritak&layout=compact&theme=dark">
-<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghritak&theme=dark" alt="GitHub Stats" style="width: 49%; margin-right: 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghritak&layout=compact&theme=dark" alt="Top Languages" style="width: 49%;" />
+</div>
+
 
 ## Contact Me
 
