@@ -52,7 +52,7 @@ Hi there! I'm Ghritak, a software developer with a passion for creating exceptio
 <p align="start">
 <a href="mailto:ghritakjyotikalita@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ghritakjyotikalita@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/ghritak-jyoti-kalita-a1915415a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ghritak%20Jyoti%20Kalita-blue?style=flat&logo=linkedin"></a>
-<a href="https://github.com/ghritak" target="_blank"><img alt="Github" src="https://img.shields.io/badge/LinkedIn-Ghritak%20Jyoti%20Kalita-gray?style=flat&logo=github"></a>
+<a href="https://github.com/ghritak" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-Ghritak%20Jyoti%20Kalita-gray?style=flat&logo=github"></a>
 
 </p>
 
