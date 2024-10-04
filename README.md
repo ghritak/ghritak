@@ -47,7 +47,7 @@ Hi there! I'm Ghritak, a software developer with a passion for creating exceptio
 
 <br />
 
-## Connect with me
+## Connect with me !
 
 <p align="start">
 <a href="mailto:ghritakjyotikalita@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ghritakjyotikalita@gmail.com-red?style=flat&logo=gmail"></a>
